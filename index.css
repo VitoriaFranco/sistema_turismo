@@ -16,16 +16,6 @@ body {
         "meio meio";
 }
 
-pai {
-    display: flex;
-    border:9000px solid;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    border: white;
-}
-
 .card {
     border-radius: 10px;
     padding: 10px;
