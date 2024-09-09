@@ -18,7 +18,7 @@ body {
 
 pai {
     display: flex;
-    border: 3px solid;
+    border:9000px solid;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
@@ -34,4 +34,8 @@ pai {
     text-align: center;
     box-shadow: 6px 6px 9px red;
     transition: 0.5s;
+}
+
+.h1{
+    text-align:left;
 }
