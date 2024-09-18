@@ -6,8 +6,8 @@ header {
 
 main {
     grid-area: meio;
-    border: rgb(0, 255, 255) 500px solid;
-    background-color: rgb(0, 0, 0) ;
+    border: rgb(0, 255, 255) 509Spx solid;
+    background-color: rgb(255, 255, 255) ;
 }
 
 body {
@@ -28,4 +28,10 @@ body {
 
 .h1{
     text-align:left;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
